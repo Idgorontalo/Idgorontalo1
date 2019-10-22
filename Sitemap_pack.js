@@ -1,4 +1,4 @@
-function mas_tamvan_Load(t)
+function Idrusgorontalo1_Load(t)
 	{
 	function s()
 		{
